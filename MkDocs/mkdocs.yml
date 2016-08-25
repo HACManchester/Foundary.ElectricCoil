@@ -1,0 +1,23 @@
+site_name: Hacman - Electric Foundry For Metal Casting
+site_url: http://HACManchester.github.io/Foundary.ElectricCoil
+site_description: Electric Foundry For Metal Casting
+repo_url: https://github.com/HACManchester/Foundary.ElectricCoil
+
+pages:
+- Home: index.md
+- Operation:
+    - Safety Gear: Operation/SafetyGear.md
+- Build:
+    - Parts: Build/Parts.md
+
+theme: cosmo
+#theme: alabaster
+#theme: readthedocs
+#theme: mkdocs
+
+markdown_extensions:
+    - smarty
+
+extra_css:
+    - css/highlight-fix.css
+    - css/highlight-custom.css
