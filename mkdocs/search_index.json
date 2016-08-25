@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Hacman - Electric Foundry For Metal Casting\n\n\nOverview\n\n\nThis is a series of Docs for the use and construction of a Foundary based on the following links\n\n\n\n\nhttps://www.youtube.com/watch?v=Cte_LSYflAE\n\n\nhttps://www.youtube.com/watch?v=6fvBzlrlKl0\n\n\n\n\nThis foundary is not induction based, but uses a electric heated coil instead for cheapness.\nIt should be cabable of smelting / creating aluminum stock for the cnc / lathe\n\n\nWarning\n\n\nSmelting metal can be very dangerous please take all precautions required", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#hacman-electric-foundry-for-metal-casting", 
+            "text": "", 
+            "title": "Hacman - Electric Foundry For Metal Casting"
+        }, 
+        {
+            "location": "/#overview", 
+            "text": "This is a series of Docs for the use and construction of a Foundary based on the following links   https://www.youtube.com/watch?v=Cte_LSYflAE  https://www.youtube.com/watch?v=6fvBzlrlKl0   This foundary is not induction based, but uses a electric heated coil instead for cheapness.\nIt should be cabable of smelting / creating aluminum stock for the cnc / lathe", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/#warning", 
+            "text": "Smelting metal can be very dangerous please take all precautions required", 
+            "title": "Warning"
+        }, 
+        {
+            "location": "/Operation/SafetyGear/", 
+            "text": "Safety Gear\n\n\nOverview\n\n\nSo far we\nve identifed the following for cheap / safety gear for use with the forge\n\n\n\n\nMask\n \n\n    Climax - Black Head Welding Shield With Fixed Glass Filter Plate - Conforms to EN 169 and EN 175\n\n\n\n\n \n\n\n\n\nBoots\n \n\n    SB - HRO - Tough Grained Foundry Boot FS1 - Conforms to BS4676 - Pair - FS-FS1\n\n\n\n\n \n\n\n\n\nApron\n \n\n    Portwest - Tan Leather Welding Apron - Conforms to EN11611 Class 2 - [PW-SW10TAR]\n\n\n\n\n \n\n\n\n\nLower Leg Protection\n \n\n    Rhino Weld - Long Split Leather Welding Gaiters with Velcro Strap - Conforms to EN11611 - [FU-AC211]\n\n\n\n\n \n\n\n\n\nSleeve Protection\n \n\n    Elasticated Chrome Leather Sleeves - Pair - [UC-ALLCHR-SLEEVE]\n\n\n\n\n \n\n\n\n\nGloves\n \n\n    Standard Leather Gauntlet - Red - Conforms to EN388 (4133) \n EN407 (413X4X) - Pair - [SM-20923]\n\n\n\n\n \n\n\n\n\nWelding Curtain\n \n\n    Green Canvas Welding Curtain With Eyelets - Size 8 x 6 Foot - Conforms to bs5867-2:2008 Type B - [MH-1085LGE]", 
+            "title": "Safety Gear"
+        }, 
+        {
+            "location": "/Operation/SafetyGear/#safety-gear", 
+            "text": "", 
+            "title": "Safety Gear"
+        }, 
+        {
+            "location": "/Operation/SafetyGear/#overview", 
+            "text": "So far we ve identifed the following for cheap / safety gear for use with the forge   Mask   \n    Climax - Black Head Welding Shield With Fixed Glass Filter Plate - Conforms to EN 169 and EN 175       Boots   \n    SB - HRO - Tough Grained Foundry Boot FS1 - Conforms to BS4676 - Pair - FS-FS1       Apron   \n    Portwest - Tan Leather Welding Apron - Conforms to EN11611 Class 2 - [PW-SW10TAR]       Lower Leg Protection   \n    Rhino Weld - Long Split Leather Welding Gaiters with Velcro Strap - Conforms to EN11611 - [FU-AC211]       Sleeve Protection   \n    Elasticated Chrome Leather Sleeves - Pair - [UC-ALLCHR-SLEEVE]       Gloves   \n    Standard Leather Gauntlet - Red - Conforms to EN388 (4133)   EN407 (413X4X) - Pair - [SM-20923]       Welding Curtain   \n    Green Canvas Welding Curtain With Eyelets - Size 8 x 6 Foot - Conforms to bs5867-2:2008 Type B - [MH-1085LGE]", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/Build/Parts/", 
+            "text": "Parts\n\n\nOverview\n\n\nThis is a list of links / parts we\nll need for making the foundary\n\n\n\n\nInsulation Bricks", 
+            "title": "Parts"
+        }, 
+        {
+            "location": "/Build/Parts/#parts", 
+            "text": "", 
+            "title": "Parts"
+        }, 
+        {
+            "location": "/Build/Parts/#overview", 
+            "text": "This is a list of links / parts we ll need for making the foundary   Insulation Bricks", 
+            "title": "Overview"
+        }
+    ]
+}
